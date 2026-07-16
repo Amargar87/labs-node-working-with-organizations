@@ -17,7 +17,7 @@
     "humao.rest-client",
   ],
   "forwardPorts": [
-    35500, //API
+    37500, //API
     38500, //SPA App
   ],
   "shutdownAction": "stopCompose",
